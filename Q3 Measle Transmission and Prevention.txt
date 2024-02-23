@@ -1,0 +1,63 @@
+Q3: Measle Transmission and Prevention
+
+Measles is a highly contagious viral infection that is transmitted through the respiratory route (Laksono, 2016). The virus initially infects lymphocytes and dendritic cells, followed by transmission to epithelial cells (Laksono, 2016). The immune response to measles involves a period of immunosuppression, followed by the development of lifelong protective immunity (Griffin, 2016). The disease is characterized by fever, runny nose, cough, and a rash, and can lead to complications in some cases (Leung, 2018). The measles virus can cause both acute and persistent infections, with the latter affecting the central nervous system and other organs (Zhdanov, 2004). Vaccination is crucial for preventing the spread of measles (Leung, 2018).
+Measles virus (MV) has a limited host range, primarily infecting humans and some monkey species (Wild, 1995). The virus enters the body through the respiratory system and attaches to host cells, initiating a replicative cycle and releasing virus particles (Wild, 1995). The virus can modulate its surface antigens, evading immune responses and persisting in the body (Joseph, 1975). MV infection induces autophagy, a cellular response to fight infections, which the virus exploits to improve its infectivity and limit cell death (Richetta, 2013). The replication cycle of MV involves transcription and replication processes, with the ribonucleoprotein complex and viral proteins playing crucial roles (Rima, 2009).
+Measles Transmission Through the Chain of Infection: Breaking the Link for Prevention
+•	Agent: The measles virus, highly contagious and airborne.
+•	Reservoir: Infected individuals are the only reservoir, harbouring the virus in respiratory secretions 4 days before to 4 days after the rash appears.
+•	Portal of Exit: Respiratory tract. Coughing, sneezing, and even talking expel infectious droplets and aerosols containing the virus.
+•	Mode of Transmission: Airborne transmission is the primary mode. Infectious droplets and aerosols remain suspended in the air for up to 2 hours, allowing inhalation by susceptible individuals. Indirect transmission through contaminated surfaces (e.g., doorknobs) is also possible but less common.
+•	Portal of Entry: Respiratory tract. Inhaled virus infects cells in the nose and throat, initiating replication.
+•	Susceptible Host: Individuals without prior immunity due to lack of vaccination or previous infection are susceptible. This includes infants too young for vaccination, immunocompromised individuals, and those who haven't received all recommended doses.
+
+Preventing Transmission: Several strategies target different links in the chain
+•	Vaccination: The highly effective MMR vaccine offers long-term protection against measles, mumps, and rubella. Achieving and maintaining high vaccination coverage (over 95%) in communities is crucial to achieve herd immunity, protecting even those unable to get vaccinated.
+•	Respiratory hygiene: Coughing and sneezing etiquette (covering mouth and nose with a tissue or elbow) and frequent handwashing can reduce the spread of infectious droplets.
+•	Environmental cleaning and disinfection: Regularly disinfecting surfaces potentially contaminated with the virus can minimize indirect transmission.
+•	Early isolation: Identifying and isolating infected individuals immediately after symptom onset prevents further spread, especially in high-risk settings like schools and healthcare facilities.
+Mode of Transmission by Chain of Infection as framework
+1.	Infectious Agent:
+Measles virus is transmitted through respiratory droplets expelled when an infected person talks, coughs, or sneezes.
+2.	Reservoir:
+Infected individuals serve as the reservoir for the measles virus.
+3.	Portal of Exit:
+Respiratory secretions, specifically droplets from the nose and throat, serve as the primary portal of exit.
+4.	Mode of Transmission:
+Transmission occurs through direct contact with respiratory droplets or by touching surfaces contaminated with these droplets.
+5.	Portal of Entry:
+The virus enters the body through the respiratory system, typically the nose and throat.
+6.	Susceptible Host:
+Individuals who are not immune to measles are susceptible hosts.
+Prevention of Transmission
+1.	Vaccination:
+Immunization with the measles, mumps, and rubella (MMR) vaccine is the most effective preventive measure. Achieving high vaccination coverage creates herd immunity, protecting those unable to receive the vaccine.
+2.	Isolation and Quarantine:
+            Isolating infected individuals and quarantining those exposed helps prevent the spread of         the virus.
+3.	Respiratory Hygiene:
+Promoting good respiratory hygiene, such as covering the mouth and nose when coughing or sneezing, reduces the release of infectious droplets.
+4.	       Hand Hygiene:
+Regular handwashing, especially after coughing or sneezing, reduces the risk of indirect transmission through contaminated surfaces.
+5.	Public Health Education:
+Public awareness campaigns can dispel misconceptions about vaccination, address vaccine hesitancy, and educate the community on the importance of preventive measures.
+Mode of Transmission of Measles using the Chain of Infection as a framework
+1. Infectious Agent
+The transmission of measles can be understood through the framework of the chain of infection, with the infectious agent, the measles virus, as the first link. The virus is highly contagious and is transmitted through the respiratory route, causing systemic disease in humans and non-human primates (Laksono, 2016). The spread of the virus can be modelled using an agent-based approach that integrates geographic information systems, providing insights into the disease's spatial diffusion through human interactions (Perez, 2015). Studies in non-human primates have further enhanced our understanding of measles, particularly in the areas of vaccination and immunopathogenesis (Swart, 2009). These findings underscore the importance of the infectious agent in the transmission of measles and the need for effective prevention and control measures.
+2. Reservoir
+The second stage of the chain of infection, the reservoir, plays a crucial role in the transmission of measles. Jones-Engel (2006) and Wild (1995) both highlight the importance of the human reservoir in the spread of the virus. The virus is transmitted via the respiratory route and causes systemic disease (Vries, 2012). Mathematical modeling by Mitku (2017) further emphasizes the significance of the reservoir in the transmission dynamics of measles. These studies collectively underscore the pivotal role of the human reservoir in the spread of measles.
+3. Portal of Exit
+The third step in the chain of infection for measles, the portal of exit, is primarily through the respiratory tract, as the virus is transmitted via droplets or aerosols (Racaniello, 2011; Laksono, 2016). This mode of transmission is evident in cases of measles being acquired during air travel (Coleman, 2009) and in healthcare settings (Kelly, 2002). The identification of the cell adhesion molecule nectin-4 as an epithelial cell receptor for measles virus provides insight into the high rate of transmission (Racaniello, 2011).
+4. Mode of transmission
+The mode of transmission is a critical factor in the spread of measles, with nosocomial transmission being a significant concern (Botelho-Nevers, 2012). The high transmissibility of the virus poses a challenge to elimination efforts (Gay, 2004), and mathematical models have been developed to understand the dynamics of transmission within populations (Bakare, 2012). Measles is primarily transmitted via the respiratory route, and its ability to cause systemic infection and suppress the immune response makes it a remarkable disease (Laksono, 2016).
+5. Portal of Entry
+The entry of Measles virus (MeV) into host cells is a complex process mediated by the attachment (H) and fusion (F) proteins (Plemper 2011). The H protein interacts with cellular receptors, including CD46, SLAM, and Nectin-4, to facilitate virus entry (Lu 2013). The virus can overcome epithelial and endothelial barriers, potentially through the usage of unknown receptors (Ludlow 2009). The assembly of the glycoprotein complex, receptor attachment, and cell entry are key steps in the transmission of MeV (Navaratnarajah 2009). These studies provide a comprehensive understanding of the mechanisms involved in the transmission of MeV, with the portal of entry being a critical step in the chain of infection.
+6. Susceptible Host
+The chain of infection for measles involves a susceptible host, which can be influenced by factors such as immune status and age. Laksono (2016) and Heffernan (2008) both highlight the role of the immune system in measles infection, with the former discussing the virus's ability to suppress the host's immune response and the latter emphasizing the importance of CD8 T-cells in determining infection outcomes. Fox (1983) further underscores the impact of herd immunity, noting that despite high overall immunity rates, measles can still occur in poorly immunized subgroups. Laksono (2018) adds to this by identifying the mechanisms through which measles virus infection induces immune suppression, leading to increased susceptibility to opportunistic infections. These studies collectively underscore the complex interplay of factors in the transmission of measles, with the susceptible host playing a crucial role.
+
+Prevention of Transmission
+Vaccination
+Vaccination is a crucial strategy in preventing the transmission of measles, with a 95% population coverage needed to establish herd immunity (Smith, 2016). The role of vaccines in the global eradication of measles has been emphasized, with successful elimination efforts in several countries (Okonko, 2009). The implementation of catch-up vaccination campaigns, improvements in routine vaccination services, and surveillance systems have been effective in controlling measles transmission (Quadros, 1996). High vaccine coverage can significantly reduce measles complications and mortality rates, particularly in developing countries (Duke, 2003).
+Isolation and Quarantine
+Isolation and quarantine are crucial strategies in preventing the transmission of measles. Banerjee (2021) found that these measures, along with contact tracing, significantly reduce transmission during outbreaks. Gastañaduy (2018) emphasized the importance of these strategies in elimination settings, where they are used alongside other interventions such as vaccination and immunoglobulin administration. Enanoria (2016) further supported the effectiveness of isolation and quarantine, particularly when combined with other interventions, in reducing the number of secondary cases and the probability of uncontrolled outbreaks.
+Respiratory Hygiene
+Respiratory hygiene, including hand hygiene and the use of facemasks, is a crucial strategy in preventing the transmission of measles and other respiratory viruses (Jenkins 2020, Jefferson 2010, Zhao 2022). These measures have been shown to be effective in reducing the spread of respiratory viruses, particularly when implemented in community settings (Zhao 2022). In particular, hand hygiene has consistently been found to be protective against respiratory viral infections (Zhao 2022). Therefore, the promotion of respiratory hygiene, including hand hygiene and the use of facemasks, is a key component of public health strategies to prevent the transmission of measles.
+
